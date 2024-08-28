@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20973
-Fork on GitHub6488
 <h1 align="center">Hi 👋, I'm Joshua Leyva</h1>
 <h3 align="center">Software Engineer / Full Stack Developer</h3>
 
