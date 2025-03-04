@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **joshualeyva816@gmail.com**
 
-- 📄 Know about my experiences [My Experience](https://imojoshleyva.vercel.app/#experience)
+- 📄 Know about my experiences [My Experience](https://imjoshleyva.vercel.app/#experience)
 
 - ⚡ Fun fact **I love music, golf, and eating lots of food!!!!**
 
