@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Any Frontend project!**
 
-- 👨‍💻 All of my projects are available at [TBD!](TBD!)
+- 👨‍💻 All of my projects are available at [imjoshleyva.vercel.app](https://imjoshleyva.vercel.app)
 
 - 📝 I regularly write articles on [TBD!](TBD!)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **joshualeyva816@gmail.com**
 
-- 📄 Know about my experiences [TBD!](TBD!)
+- 📄 Know about my experiences [My Experience](https://imojoshleyva.vercel.app/#experience)
 
 - ⚡ Fun fact **I love music, golf, and eating lots of food!!!!**
 
