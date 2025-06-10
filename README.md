@@ -16,16 +16,15 @@
 
 ## 🚀 About Me
 
-```typescript
-const joshua = {
-  location: "📍 Based in [Your Location]",
-  currentFocus: "🔭 Building innovative web applications",
-  collaboration: "👯 Open to frontend & full-stack projects",
-  learning: "🌱 Exploring modern web technologies",
-  passion: "⚡ Music, golf, and great food!",
-  experience: "💼 Check my journey at imjoshleyva.vercel.app"
-};
-```
+<div align="center">
+
+🔭 **Currently Building**: Personal portfolio with cutting-edge technologies  
+👯 **Open to Collaborate**: Frontend & full-stack projects  
+🌱 **Learning**: Modern web technologies and cloud architecture  
+💼 **Experience**: [Check my journey here](https://imjoshleyva.vercel.app)  
+⚡ **Fun Fact**: I love music, golf, and eating great food!  
+
+</div>
 
 ---
 
@@ -84,7 +83,7 @@ const joshua = {
 
 - 🔥 **Building**: Personal portfolio with cutting-edge tech
 - 💡 **Learning**: Advanced React patterns and cloud architecture  
-- 🤝 **Collaborating**: Always open to exciting frontend projects
+- �� **Collaborating**: Always open to exciting frontend projects
 - 📝 **Writing**: Technical articles and documentation
 - 🎵 **Enjoying**: Music, golf, and culinary adventures
 
